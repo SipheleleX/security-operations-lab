@@ -2,7 +2,7 @@
 
 > A comprehensive security operations center (SOC) lab demonstrating vulnerability assessment, threat detection, and incident response using Wazuh XDR, Nessus, and MITRE ATT&CK framework.
 
-[![Video Demo](https://img.shields.io/badge/Video-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/uBauC0E4XIk)
+[![Video Demo](https://img.shields.io/badge/Video-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/U8Jutl26DC0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siphelele-x-929a45267/)
 
 ##  Project Overview
@@ -57,7 +57,7 @@ This project simulates a real-world security operations environment where vulner
 
 ##  Video Demonstration
 
-[**Watch the Full Demo →**](https://youtu.be/uBauC0E4XIk)
+[**Watch the Full Demo →**](https://youtu.be/U8Jutl26DC0)
 
 **Video Highlights:**
 - Live attack execution and detection
@@ -70,14 +70,14 @@ This project simulates a real-world security operations environment where vulner
 ### 1. RDP Brute Force Attack
 - **MITRE ATT&CK**: T1110.001 (Brute Force: Password Guessing)
 - **Tool**: Hydra
-- **Detection**: ✅ Detected in <15 seconds
+- **Detection**:  Detected in <15 seconds
 - **Severity**: HIGH
 - **[Full Report →](reports/attack-demo-brute-force.md)**
 
 ### 2. Lateral Movement via WMI
 - **MITRE ATT&CK**: T1047 (Windows Management Instrumentation), T1021 (Remote Services)
 - **Techniques**: WMI queries, share enumeration, remote execution testing
-- **Detection**: ✅ Detected in <10 seconds
+- **Detection**:  Detected in <10 seconds
 - **Severity**: HIGH
 - **[Full Report →](reports/attack-demo-lateral-movement.md)**
 
@@ -145,7 +145,7 @@ sudo systemctl start nessusd
 ```
 
 4. **Access Services**
-- Wazuh Dashboard: `https://localhost:443` (admin/admin)
+- Wazuh Dashboard: `https://localhost:443` (admin/(default password))
 - Nessus: `https://localhost:8834`
 
 ### Running Attack Simulations
@@ -189,29 +189,29 @@ security-operations-lab/
 ##  Skills Demonstrated
 
 ### Technical Skills
-- ✅ SIEM/XDR administration (Wazuh)
-- ✅ Vulnerability assessment (Nessus)
-- ✅ Penetration testing basics
-- ✅ Windows security monitoring
-- ✅ Docker containerization
-- ✅ Linux system administration
-- ✅ PowerShell scripting
-- ✅ Bash scripting
-- ✅ Network security
-- ✅ Incident response
+-  SIEM/XDR administration (Wazuh)
+-  Vulnerability assessment (Nessus)
+-  Penetration testing basics
+-  Windows security monitoring
+-  Docker containerization
+-  Linux system administration
+-  PowerShell scripting
+-  Bash scripting
+-  Network security
+-  Incident response
 
 ### Security Frameworks
-- ✅ MITRE ATT&CK framework
-- ✅ Cyber Kill Chain
-- ✅ NIST Cybersecurity Framework
-- ✅ CIS Controls
+-  MITRE ATT&CK framework
+-  Cyber Kill Chain
+-  NIST Cybersecurity Framework
+-  CIS Controls
 
 ### Soft Skills
-- ✅ Technical documentation
-- ✅ Incident analysis
-- ✅ Risk assessment
-- ✅ Report writing
-- ✅ Problem-solving
+-  Technical documentation
+-  Incident analysis
+-  Risk assessment
+-  Report writing
+-  Problem-solving
 
 ##  Documentation
 
@@ -256,7 +256,7 @@ security-operations-lab/
 ##  Contact
 
 **Siphelele Xaba**
-- LinkedIn: [Your LinkedIn Profile]([YOUR_LINKEDIN](https://www.linkedin.com/in/siphelele-x-929a45267/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siphelele-x-929a45267/)
 - Email: siphelelexaba71@icloud.com
 - GitHub: [@SipheleleX](https://github.com/SipheleleX)
 
