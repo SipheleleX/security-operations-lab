@@ -1,0 +1,26 @@
+# Logs and temporary files
+*.log
+*.tmp
+attack-logs/
+/tmp/
+
+# Docker volumes
+wazuh/wazuh_*
+
+# Sensitive data
+*.key
+*.pem
+passwords.txt
+credentials.txt
+
+# Nessus files
+nessus/*.deb
+
+# Video files (upload separately to YouTube)
+*.mp4
+*.avi
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
