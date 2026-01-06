@@ -256,7 +256,7 @@ security-operations-lab/
 ##  Contact
 
 **Siphelele Xaba**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siphelele-x-929a45267/)
+- LinkedIn: [Siphelele](https://www.linkedin.com/in/siphelele-x-929a45267/)
 - Email: siphelelexaba71@icloud.com
 - GitHub: [@SipheleleX](https://github.com/SipheleleX)
 
