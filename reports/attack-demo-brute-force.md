@@ -21,7 +21,7 @@ Brute force attacks attempt to gain unauthorized access by systematically trying
 ### 2. Attack Execution
 **Tool Used**: Hydra (THC-Hydra)
 **Attack Parameters**:
-- Target: [172.17.187.5]:3389
+- Target: 172.17.187.5:3389
 - Username: labuser
 - Password list: 9 common passwords
 - Threads: 4 concurrent attempts
@@ -41,7 +41,7 @@ P@ssw0rd
 ```
 
 ### 3. Attack Timeline
-- **T+0s**: Attack initiated from [172.17.187.6]
+- **T+0s**: Attack initiated from 172.17.187.6
 - **T+2s**: First password attempt (failed)
 - **T+5s**: Multiple failed attempts
 - **T+8s**: 34 failed attempts total
