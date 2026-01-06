@@ -24,3 +24,8 @@ nessus/*.deb
 # OS files
 .DS_Store
 Thumbs.db
+# Video files
+*.mp4
+*.avi
+*.mov
+demo-video/
