@@ -2,8 +2,8 @@
 
 > A comprehensive security operations center (SOC) lab demonstrating vulnerability assessment, threat detection, and incident response using Wazuh XDR, Nessus, and MITRE ATT&CK framework.
 
-[![Video Demo](https://img.shields.io/badge/Video-Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Video Demo](https://img.shields.io/badge/Video-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/uBauC0E4XIk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siphelele-x-929a45267/)
 
 ##  Project Overview
 
@@ -16,7 +16,7 @@ This project simulates a real-world security operations environment where vulner
 -  Complete MITRE ATT&CK framework mapping
 -  Professional incident documentation and remediation guidance
 
-## 🏗️ Architecture
+##  Architecture
 ```
 ┌─────────────────────────────────────────┐
 │         Linux VM (Ubuntu 24.04)         │
@@ -57,7 +57,7 @@ This project simulates a real-world security operations environment where vulner
 
 ##  Video Demonstration
 
-[**Watch the Full Demo →**](YOUR_VIDEO_LINK)
+[**Watch the Full Demo →**](https://youtu.be/uBauC0E4XIk)
 
 **Video Highlights:**
 - Live attack execution and detection
@@ -256,7 +256,7 @@ security-operations-lab/
 ##  Contact
 
 **Siphelele Xaba**
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN)
+- LinkedIn: [Your LinkedIn Profile]([YOUR_LINKEDIN](https://www.linkedin.com/in/siphelele-x-929a45267/))
 - Email: siphelelexaba71@icloud.com
 - GitHub: [@SipheleleX](https://github.com/SipheleleX)
 
